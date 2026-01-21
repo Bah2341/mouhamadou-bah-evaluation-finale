@@ -159,7 +159,11 @@ Pour tester l'application :
 
 ## 📸 Captures d'écran
 
-Voir le fichier `GUIDE_ETAPES.md` pour les instructions détaillées et les captures d'écran requises.
+Les captures d'écran requises pour l'évaluation incluent :
+- Capture d'écran de phpMyAdmin montrant la base de données `testdb2` et ses tables
+- Capture d'écran du terminal montrant le lancement du backend
+- Capture d'écran de la page de connexion dans le navigateur
+- Capture d'écran de la page des tâches après connexion avec différents utilisateurs
 
 ## 📝 Notes importantes
 
